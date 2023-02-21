@@ -10,5 +10,7 @@
 
 [官方文档地址](https://docs.soliditylang.org/en/v0.8.18/)
 
-**第1讲：基础介绍**：[代码](https://github.com/AmazingAng/WTFSolidity/blob/main/01_HelloWeb3) | [文章](https://github.com/AmazingAng/WTFSolidity/blob/main/01_HelloWeb3/readme.md) 
+**第1章：HelloSloidity**：[代码](https://github.com/AmazingAng/WTFSolidity/blob/main/01_HelloWeb3) | [文章](https://github.com/AmazingAng/WTFSolidity/blob/main/01_HelloWeb3/readme.md) 
+
+**第2章：基础介绍**：[代码](https://github.com/AmazingAng/WTFSolidity/blob/main/01_HelloWeb3) | [文章](https://github.com/AmazingAng/WTFSolidity/blob/main/01_HelloWeb3/readme.md) 
 
